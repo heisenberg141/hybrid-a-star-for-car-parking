@@ -6,6 +6,6 @@ This repository contains my Implementation of hybrid A star for a vehicle with A
 
 ## Results:
 1. Hybrid A star search pattern:
-![illustration](media/searchPattern.png)
+![illustration](media/searchPattern.png?raw=true "Search Pattern")
 3. Demo Video
 ![illustration](media/valet_better.gif)
