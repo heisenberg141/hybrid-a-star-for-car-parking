@@ -9,4 +9,5 @@ This repository contains my Implementation of hybrid A star for a vehicle with A
 ![illustration](media/searchPattern.png?raw=true "Search Pattern")
 
 2. Demo Video
+
 ![illustration](media/valet_better.gif?raw=true "Demo Video")
