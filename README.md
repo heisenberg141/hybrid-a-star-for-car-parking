@@ -14,4 +14,4 @@ This repository contains my Implementation of hybrid A star for a vehicle with A
 
 3. Truck Parking
 
-![illustration3](media/trailer_movie2.gif)
+![illustration3](media/trailer_movie.gif)
