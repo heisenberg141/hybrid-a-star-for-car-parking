@@ -12,6 +12,6 @@ This repository contains my Implementation of hybrid A star for a vehicle with A
 
 ![illustration2](media/valet_better.gif?raw=true "Demo Video")
 
-3. Truck Parking
 
-![illustration3](media/trailer_movie.gif)
+
+
